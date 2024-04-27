@@ -8,7 +8,7 @@ A few years ago I started to work with LUA, C# and many other programming langua
 Meanwhile I have over fifteen own reposetories, which are offered for sale on my homepage.<br>
 Exclusively only FiveM scripts...
 
-I was inspired for this Github repository by @redacks.<br>
+I was inspired for this Github repository by [@Redacks](https://github.com/redacks).<br>
 They have already inspired me in a few things, as we both have recently been exchanging a lot about programming,<br>
 Github and everything that goes with it.
 
