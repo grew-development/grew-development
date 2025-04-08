@@ -1,5 +1,7 @@
 Hey there 👋,<br>
-I'm Grewo alias @grew-development (Sven Rönnfranz)
+I'm Grewo alias @grew-development (Sven Rönnfranz).<br>
+Since April 2025, I’ve been publishing my scripts under the name "Grew Solutions".<br>
+However, grew-development will remain active here on GitHub, as it’s the most convenient and organized way for me to manage my repositories.
 
 Since several years I started to use HTML-codes, PHP-codes and CSS to design my own homepages.
 
@@ -16,6 +18,6 @@ If you have further questions feel free to contact me.
 <br><br>
 ## Short Information
 - 📫 How to reach me
-  - Email: [info@grew-development.de](mailto:info@grew-development.de)
-  - Website: [https://grew-development.de](https://grew-development.de)
+  - Email: [info@grew-solutions.de](mailto:info@grew-solutions.de)
+  - Website: [https://grew-solutions.de](https://grew-solutions.de)
   - Discord: @grewo
